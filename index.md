@@ -1,10 +1,22 @@
-# WHAT IS PLUTO?
-Pluto is a Jekyll framework to make static websites.
+# SAFARI
+Safari is a documentation base for new to old developers.
 
-```javascript
-// Syntax Highlighting
-// Pluto
-function never(fails) {
-  console.log("to amaze me.")
-};
+## What is Different About Safari?
+
+### Good Syntax Highlighting
+```safari.py```
+```python
+def hello():
+  print("Hello World")
+```
+```safari.rb```
+```ruby
+puts "Welcome to Safari, with ruby"
+```
+
+### Good tutorials
+Pluto helps with coding by providing tutorials for most everything you can code.
+```print.rb```
+```ruby
+puts "Hello World"
 ```

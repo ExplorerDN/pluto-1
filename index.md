@@ -7,3 +7,4 @@ Pluto is a Jekyll framework to make static websites.
 function never(fails) {
   console.log("to amaze me.")
 };
+```
